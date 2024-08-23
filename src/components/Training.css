@@ -1,0 +1,6 @@
+.training {
+    display: grid;
+    
+    grid-template-columns: repeat(auto-fill); /* 5 equal columns*/
+    gap: 50px;
+  }
